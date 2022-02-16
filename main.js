@@ -24,7 +24,7 @@ const shuffleNum = array => {
 
 const messageGenerator = randomNum => {
 
-    let count =0;
+    
     let messageFolder = [];
     
     const randomMessage = randomNum.map(num =>{
